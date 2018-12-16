@@ -1,7 +1,7 @@
 <b> Ashcroft G2 user interface </b>
 <br />
 This project was developed inside the Medicine Department of Federal Univesity of Santa Catarina. <br />
-The project's purpose is to provide real-time sampling from the Ashcroft G2 pressure transducer, it's used in a medical exam to evalute hand pressure force. <br />
+The project's purpose is to provide real-time sampling from the Ashcroft G2 pressure transducer, it's used in a medical exam to evaluate hand pressure force. <br />
 The prototype is currently in a experimental step, but showing good results.
 <br />
 Some technologies used are listed below. <br />
