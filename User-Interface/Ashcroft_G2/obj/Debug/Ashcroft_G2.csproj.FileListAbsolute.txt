@@ -1,0 +1,13 @@
+C:\Users\Santos\Documents\Github\victorsantosdev\fixed\ashcroft-g2\User-Interface\Ashcroft_G2\bin\Debug\Ashcroft_G2.resx
+C:\Users\Santos\Documents\Github\victorsantosdev\fixed\ashcroft-g2\User-Interface\Ashcroft_G2\bin\Debug\Ashcroft_G2.cs
+C:\Users\Santos\Documents\Github\victorsantosdev\fixed\ashcroft-g2\User-Interface\Ashcroft_G2\bin\Debug\Ashcroft_G2.Designer.cs
+C:\Users\Santos\Documents\Github\victorsantosdev\fixed\ashcroft-g2\User-Interface\Ashcroft_G2\bin\Debug\Ashcroft_G2.exe.config
+C:\Users\Santos\Documents\Github\victorsantosdev\fixed\ashcroft-g2\User-Interface\Ashcroft_G2\bin\Debug\Ashcroft_G2.exe
+C:\Users\Santos\Documents\Github\victorsantosdev\fixed\ashcroft-g2\User-Interface\Ashcroft_G2\bin\Debug\Ashcroft_G2.pdb
+C:\Users\Santos\Documents\Github\victorsantosdev\fixed\ashcroft-g2\User-Interface\Ashcroft_G2\obj\Debug\AshcroftApplication.AxisConfig.resources
+C:\Users\Santos\Documents\Github\victorsantosdev\fixed\ashcroft-g2\User-Interface\Ashcroft_G2\obj\Debug\AshcroftApplication.AquisForm.resources
+C:\Users\Santos\Documents\Github\victorsantosdev\fixed\ashcroft-g2\User-Interface\Ashcroft_G2\obj\Debug\Ashcroft_G2.Properties.Resources.resources
+C:\Users\Santos\Documents\Github\victorsantosdev\fixed\ashcroft-g2\User-Interface\Ashcroft_G2\obj\Debug\Ashcroft_G2.csproj.GenerateResource.cache
+C:\Users\Santos\Documents\Github\victorsantosdev\fixed\ashcroft-g2\User-Interface\Ashcroft_G2\obj\Debug\Ashcroft_G2.csproj.CoreCompileInputs.cache
+C:\Users\Santos\Documents\Github\victorsantosdev\fixed\ashcroft-g2\User-Interface\Ashcroft_G2\obj\Debug\Ashcroft_G2.exe
+C:\Users\Santos\Documents\Github\victorsantosdev\fixed\ashcroft-g2\User-Interface\Ashcroft_G2\obj\Debug\Ashcroft_G2.pdb
